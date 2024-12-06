@@ -52,4 +52,4 @@ This report details the fabrication process for the 2DA1201Y PNP transistor, inc
 ## Usage
 This document is intended for academic and research purposes, providing a comprehensive guideline for the fabrication of a PNP transistor. For detailed process parameters, consult the relevant sections in the report.
 
-For inquiries or further information, contact the contributors listed above.
+For inquiries or further information, contact the contributor - anikets21@iitk.ac.in
